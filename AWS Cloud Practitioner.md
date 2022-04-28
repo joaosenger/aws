@@ -140,3 +140,28 @@ A AWS Pricing Calculator é utilizada para estimar o curso dos produtos e servi�
 **1. Adicione o Serviço:** realize a busca pelo nome ou característica\
 **2. Configure e Ajuste:** altere os detalhes de uso e o custo do serviço\
 **3. Obtenha Estimativa:** custos separados por serviços, grupo ou total.
+
+## AWS Organizations
+**O que é o AWS Organizations?** \
+É um serviço global que ajuda a administrar o seu ambiente em um único local.
+
+**O que é um Organization Unit (OU)?** \
+É um grupo de contas da AWS dentro de uma organização. \
+Uma OU também pode conter oturas OUs, o que permite criar uma hierarquia.
+
+**O que são Políticas de controle de serviço (SCPs)?** \
+São políticas que definem ações do que usuários, grupos e funções do IAM podem realizar nas contas.
+
+**Qual é o serviço utilizado para consolidar faturas?**
+AWS Organizations
+
+**Características:**
+1. É um serviço global, 
+2. Permite gerenciar múltiplas contas AWS, 
+3. A conta principal é chamada de Master Account, 
+4. As outras contas são chamadas de Member Account, 
+5. Contas são organizadas por: Organizational Units (OU) 
+6. Políticas de controle de serviço (Service Control Polices: SCP),
+7. Consolida o pagamento de todas as contas em um único local.
+
+## 
