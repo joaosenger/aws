@@ -74,6 +74,9 @@ Alta disponibilidade = instâncias em diferentes zonas de disponibilidade, estra
 	Nenhuma violação de segurança.\
 	Nenhum abuso de rede.\
 	Nenhum abuso de e-mail ou outras mensagens (ex.: spam). 
+	
+## Free Tier AWS
+Uma conta Free Tier é o conjunto de três tipos de ofertas: os do tipo **sempre gratuito**, os que **expiram em 12 meses** e os de **testes de curto prazo.**
 
 ## AWS Serverless
 É criar e executar aplicações sem se preocupar com servidores. Serverless não significa que não existem servidores, mas sim que eles existem, mas não os gerenciamos. Ex.: AWS Lambda, AWS Fargate, Amazon EventBridge etc.
@@ -123,4 +126,17 @@ Gerenciamento financeiro na nuvem\
 Ferramentas do desenvolvedor\
 Migração e transferência.
 
+## Documentação de Preços dos Produtos AWS
+**Modo Convêncional:** ir na página do produto e clicar em "Definição de Preço".\
+**Moro Rápido:** Alterar a URL do produto, exemplo: https://aws.amazon.com/pt/s3/pricing , aqui alteraríamos só o S3 por outro serviço, como por exemplo: https://aws.amazon.com/pt/ec2/pricing, sendo necessário conhecer o nome do serviço apenas.
 
+## Calculadora AWS (pode não cair, só ler de vez em quando)
+**Custo Simples Mensal (AWS Simple Monthly Calculator):** cobre todos os serviços aws utilizados e apresenta um custo estimado mensal.\
+**Custo Total de Propriedade (AWS Total Cost of Ownership (TCO) Calculator:** comparar custo da execução de uma aplicação em ambiente local e em ambiente de nuvem aws.
+
+## AWS Pricing Calculator (ESTUDAR mais essa!!!)
+Link: https://calculator.aws/ \
+A AWS Pricing Calculator é utilizada para estimar o curso dos produtos e serviços\
+**1. Adicione o Serviço:** realize a busca pelo nome ou característica\
+**2. Configure e Ajuste:** altere os detalhes de uso e o custo do serviço\
+**3. Obtenha Estimativa:** custos separados por serviços, grupo ou total.
