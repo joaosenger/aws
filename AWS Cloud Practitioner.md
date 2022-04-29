@@ -164,4 +164,25 @@ AWS Organizations
 6. Políticas de controle de serviço (Service Control Polices: SCP),
 7. Consolida o pagamento de todas as contas em um único local.
 
-## 
+## AWS Management Console & Aplicativo
+São as maneiras de acessar a AWS. \
+**Console de Gerenciamento (navegador):** é a interface grática acessada via navegador e pelo app em smartphone (AWS Console Mobile App) \
+**Command Line Interface (CLI):** ferramente open source, conseguimos acesso ao root da instância, dá suporte a linux, macos, windows, powershell, ssh, etc \
+**Software Development Kit (SDK):** API para acecssar a AWS através de nossos sistemas. \
+**DICA PARA O EXAME:** \
+- Existem três tipos de conexão: \
+1. Console de Gerenciamento AWS (via https e app) 
+2. AWS Command Line Interface (via terminal) 
+3. Software Development Kit (via API, programação).
+
+## AWS Identity and ACESS Management (IAM)\
+Usuários: pessoas ou serviços, com credenciais **permanentes**.\
+Grupos: Coletivo de usuários, grupos não podem conter outros grupos.\
+Funções: não são suas permissões, é um método de autenteicação temporária (como um usuário temporário).\
+![image](https://user-images.githubusercontent.com/74719360/166081290-12fdcfa3-8985-477b-85f4-4f1fddacccb7.png)\
+**PARA A PROVA:**\
+**Usuários** possuem credenciais **permanenetes** e **funções** possuem credenciais **temporárias**\
+Usuários root **NÃO** devem ser compartilhados\
+Use o **least privilege principle** nos usuários.\
+Documentos **JSON** definem as **permissões** de acesso\
+**Grupos** contém outros usuários, mas **não** podem **conter outros grupos**.\
