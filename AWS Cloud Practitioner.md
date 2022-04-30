@@ -185,4 +185,12 @@ Funções: não são suas permissões, é um método de autenteicação temporá
 Usuários root **NÃO** devem ser compartilhados\
 Use o **least privilege principle** nos usuários.\
 Documentos **JSON** definem as **permissões** de acesso\
-**Grupos** contém outros usuários, mas **não** podem **conter outros grupos**.\
+**Grupos** contém outros usuários, mas **não** podem **conter outros grupos**.
+
+## AWS WAF
+O **AWS WAF** é um firewall de aplicativos web que permite especificar qual tráfego é permitido ou bloquear, mediante a definição de regras personalizáveis.\
+**Características:** \
+Filtrar o tráfego com regras personalizadas \
+Bloquear requisições como SQL Injection (SQLi), e cross-site scripting (XSS) \
+Fácil ajuste e monitoramenteo do tráfego. \
+![image](https://user-images.githubusercontent.com/74719360/166107906-640036df-204f-4458-a7f0-d688e9ccb5ac.png) \
