@@ -12,12 +12,12 @@ Baixo custo.
 É a entrega sob demanda de recursos computacionais, por meio de uma plataforma de serviços via internet, sem gerenciamento ativo do usuário.
 
 ## Capex vs. Opex
-**Capex:** data-center tradicional (on-premises).
-**Opex:** AWS.
-Capex é a despesa de capital, Opex é uma despesa operacional. 
+**Capex:** data-center tradicional (on-premises). \
+**Opex:** AWS. \
+Capex é a despesa de capital, Opex é uma despesa operacional. \ 
 
-**Hypervisor:** virtualização de Sistemas Operacionais
-Arquiteturas tipo 1 (bare-metal) e tipo 2 (hosted).
+**Hypervisor:** virtualização de Sistemas Operacionais\
+Arquiteturas tipo 1 (bare-metal) e tipo 2 (hosted).\
 
 Bare Metal, tipo 1\
 VM - Guest OS	VM - Guest OS\
@@ -38,7 +38,7 @@ Hardware
 **Increase speed and agility:** upgrade ao passo de alguns clicks.\
 **Go global:** sua aplicação em várias regiões do mundo com apenas alguns clicks.
 
-## Modelos de Computação tradicional: IaaS, PaaS, SaaS.
+## Modelos de Computação em nuvem: IaaS, PaaS, SaaS.
 **IaaS:** infraestrutura como serviço. Hospedagem comum, hostgator, hostinger, etc.\
 **PaaS:** plataforma como serviço. A plataforma faz tudo, você foca no desenvolvimento.\
 **SaaS:** software como serviço. Você só se preocupa em como executar o software, ex.: gmail.
