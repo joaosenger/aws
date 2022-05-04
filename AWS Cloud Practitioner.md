@@ -194,3 +194,27 @@ Filtrar o tráfego com regras personalizadas \
 Bloquear requisições como SQL Injection (SQLi), e cross-site scripting (XSS) \
 Fácil ajuste e monitoramenteo do tráfego. \
 ![image](https://user-images.githubusercontent.com/74719360/166107906-640036df-204f-4458-a7f0-d688e9ccb5ac.png) \
+
+## AWS Shield
+O AWS Shield é um serviço gerenciado de proteção contra DDoS (negação de serviço distribuída) que protege os aplicativos executados na AWS. \
+**Características:** \
+Proteção contra DDoS \
+Monitoramento de fluxo e tráfego de aplicativos \
+Suporte 24x7 com especialistas \
+A versão Standart é suficiente para quase todos os cenários. Caso deseje mais opções de configuração e relatórios detalhados, pode-se contratar o AWS Shield Advanced. \
+
+## Amazon Cognito
+
+
+
+
+
+
+
+
+
+
+
+
+
+
