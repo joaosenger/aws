@@ -204,14 +204,26 @@ Suporte 24x7 com especialistas \
 A versão Standart é suficiente para quase todos os cenários. Caso deseje mais opções de configuração e relatórios detalhados, pode-se contratar o AWS Shield Advanced. \
 
 ## Amazon Cognito
+Permite adicionar cadastramento, login e controle de acesso de usuários a aplicativos web e móveis, com o login do Facebook, Google, Amazon e de provedores de identidade empresariais. \
+**Característica:** \
+Federação de identidades sociais e empresariais \
+Diretório de usuários seguro e escalável \
+Autenticação baseada em padrões \
+Segurança para aplicativos e usuários \
+Controle de acesso para recursos da AWS \
+Fácil integração com os aplicativos. 
 
+## Criptografia na AWS
+Criptografia é uma técnica de proteção aplicada ao dado em respouso [at rest] ou em trânsito [in transit], para não permitir o acesso ou a leitura de pessoas sem autorização. \
 
-
-
-
-
-
-
+**Criptografia para objetos** \
+**S**erver **S**ide **E**ncryption\ 
+<br>
+SSE-S3: objetos S3 e a AWS gerencia as chaves. \
+SSE-KMS: utiliza o AWS Key Managment Service para gerenciar as chaves. \
+SSE-C: você gerencia suas chaves. \
+<br>
+**Client Side Encryption** \
 
 
 
