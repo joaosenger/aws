@@ -224,7 +224,14 @@ SSE-KMS: utiliza o AWS Key Managment Service para gerenciar as chaves. \
 SSE-C: você gerencia suas chaves. \
 <br>
 **Client Side Encryption** \
+Criptografia antes de enviar ao S3, usando uma chave mestra CMK. \
+**O QUE TER ATENÇÃO NO EXAME?** \
+De quem é a responsabilidade da criptografia? R: você! \
+Quais são os tipos de criptografia do lado do servidor? R: SSE-S3, SSE-KMS, SSE-C \
+**Qual o serviço que gerencia a chave de criptografia? R: AWS KMS (Key Management Service)** \
+Qual a chave para criptografia do lado do cliente? R: Customer Master Key (CMK), Chave Mestra do Cliente.
 
+##
 
 
 
