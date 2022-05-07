@@ -231,7 +231,24 @@ Quais são os tipos de criptografia do lado do servidor? R: SSE-S3, SSE-KMS, SSE
 **Qual o serviço que gerencia a chave de criptografia? R: AWS KMS (Key Management Service)** \
 Qual a chave para criptografia do lado do cliente? R: Customer Master Key (CMK), Chave Mestra do Cliente.
 
-##
+## Amazon EC2 - Elastic Compute Cloud
+O Amazon EC2 é um serviço que disponibiliza uma capacidade computacional segura, representado por uma instância redimensionável na Nuvem. \
+**Características:**
+1. Amazon EC2 -> Elastic Compute Cloud
+2. Modelo infraestrutura como Serviço\
+3. Alugar máquinas virtuais (EC2)\
+4. Armazenar dados em volumes virtuais (EBS) \
+5. Distribuir a carga de trabalho (ELB) \
+6. Escalar o serviço de acordo com a demanda (ASG)\
+![image](https://user-images.githubusercontent.com/74719360/167248965-5ed98620-1c25-41f1-8204-06ae1c35ce81.png) \
+<br>
+![image](https://user-images.githubusercontent.com/74719360/167249030-b3d3b4e7-67ac-4cb9-a0b6-e37d457dafaa.png) \
+**Lembre-se para a prova:** \
+O Amazon EC2 é um serviço web que disponibiliza uma capacidade computacional segura, representado por uma instância redimensionável na Nuvem. \
+Modelo Computacional é Infraestrutura como Serviço \
+Ambiente Operacional tipo Windows, MacOSe Linux \
+Cobrança por hora ou segundo (mínimo de 60 segundos) \
+
 
 
 
