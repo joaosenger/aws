@@ -241,15 +241,31 @@ O Amazon EC2 é um serviço que disponibiliza uma capacidade computacional segur
 5. Distribuir a carga de trabalho (ELB) \
 6. Escalar o serviço de acordo com a demanda (ASG)\
 ![image](https://user-images.githubusercontent.com/74719360/167248965-5ed98620-1c25-41f1-8204-06ae1c35ce81.png) \
-<br>
 ![image](https://user-images.githubusercontent.com/74719360/167249030-b3d3b4e7-67ac-4cb9-a0b6-e37d457dafaa.png) \
 **Lembre-se para a prova:** \
-O Amazon EC2 é um serviço web que disponibiliza uma capacidade computacional segura, representado por uma instância redimensionável na Nuvem. \
-Modelo Computacional é Infraestrutura como Serviço \
-Ambiente Operacional tipo Windows, MacOSe Linux \
-Cobrança por hora ou segundo (mínimo de 60 segundos) \
+O **Amazon EC2** é um serviço web que disponibiliza uma c**apacidade computacional** segura, representado por uma **instância redimensionável** na Nuvem. \
+**Modelo Computacional** é **Infraestrutura como Serviço** \
+**Ambiente Operacional** tipo **Windows, MacOSe Linux** \
+**Cobrança** por **hora** ou **segundo** (mínimo de 60 segundos) 
 
+## Amazon EC2 - Launch Types (inicializadores)
+São divididos em:
+* **Sob demanda**  \
+![image](https://user-images.githubusercontent.com/74719360/167249545-5849b947-618d-4f9c-be99-69fd76d6aec4.png)  \
 
+* **Instâncias Spot** \
+![image](https://user-images.githubusercontent.com/74719360/167249761-1e87d180-ee2d-4bcf-a64a-cfbc9ab0e164.png) \
+
+* **Instâncias Reservadas** \
+![image](https://user-images.githubusercontent.com/74719360/167249644-ddd5d408-faff-4a18-ae65-6a362fbea640.png)  \
+
+* **Host e Instância Dedicada** \
+![image](https://user-images.githubusercontent.com/74719360/167249710-e5b3807f-3d44-4191-918b-bb0ef523813e.png) \
+![image](https://user-images.githubusercontent.com/74719360/167249751-efa721e4-b2f1-4245-ae56-81fc03435dc5.png) \
+![image](https://user-images.githubusercontent.com/74719360/167249756-11dd5b8a-fea7-4906-8c5c-b061206a7a64.png) \
+
+**Resumo para a prova** \
+![image](https://user-images.githubusercontent.com/74719360/167249811-c7b3d06a-54f7-4ccc-acd2-2e7683a86295.png) \
 
 
 
