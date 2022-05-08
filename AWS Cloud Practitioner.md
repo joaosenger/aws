@@ -267,6 +267,39 @@ São divididos em:
 **Resumo para a prova** \
 ![image](https://user-images.githubusercontent.com/74719360/167249811-c7b3d06a-54f7-4ccc-acd2-2e7683a86295.png) \
 
+## AWS Lambda
+Permite que você execute códigos sem provisionar ou gerenciar servidores, pagando apenas pelo número de solicitações e pelo tempo de computação que você utilizar. \
+<br>
+**Características:**
+* Serverless
+* Escalável
+* Baixo custo
+* Multiplas linguagens
+![image](https://user-images.githubusercontent.com/74719360/167317369-bd4bb9b3-cfe0-4258-90d9-7bbdb9e63f12.png)
 
+Para a prova:
+* Serviço serverless e gerenciado pela AWS
+* AWS Lambda dimensiona suas aplicações
+* Você pode otimizar o tempo de execução e o tamanho de memória (até 10GB)
+* Cobrança por número de solicitações de suas funções e pela duração por cada milissegundo que leva para que seu código seja executado (até 15 minutos)
 
+## AWS Elastic Beanstalk
+É um serviço gerenciado, para os desenvolvedores realizarem uma fácil utilização de implantação e escalabilidade de aplicações e serviços web.\
+![image](https://user-images.githubusercontent.com/74719360/167317743-e300af53-ff01-4103-aead-346f3b23b40d.png) 
+![image](https://user-images.githubusercontent.com/74719360/167317899-82a3b0c2-6765-4ae4-90e6-7444ab92a51d.png)
+
+## Amazon Lightsail
+Uma plataforma na nuvem que oferece o que você precisa para criar um aplicativo ou um site, com um plano mensal de baixo custo. \
+![image](https://user-images.githubusercontent.com/74719360/167318018-d2dd8f6e-23e0-4d5d-95e6-982f3dd947ae.png)
+![image](https://user-images.githubusercontent.com/74719360/167318052-74634860-69cf-4c94-bcc2-46f6b61c5b6a.png)
+![image](https://user-images.githubusercontent.com/74719360/167318072-89fa7227-0e49-4fd5-8d97-d4cbbe25ede0.png)
+![image](https://user-images.githubusercontent.com/74719360/167318087-9948c8c1-ea71-4c77-9688-9d47add23451.png)
+
+Para a prova: \
+**Aplicações de Uso:**  
+* Aplicativo web simples
+* Software comercial e código aberto
+* Site de blog, pessoal ou e-commerce
+* Ambiente de testes e desenvolvimento
+* Pagamento através de um plano mensal de baixo custo.
 
