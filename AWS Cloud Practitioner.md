@@ -303,3 +303,18 @@ Para a prova: \
 * Ambiente de testes e desenvolvimento
 * Pagamento através de um plano mensal de baixo custo.
 
+## Amazon S3 - Simple Storage Service
+É um serviço gerenciado de armazenamento e recuperação de objetos, respondendo com escalabilidade, disponibilidade, segurança e performance.
+**Benefícios do Amazon S3**
+* Armazenamento virtualmente ilimitado
+* Compartilhar arqvuiso ou criar um website estático
+* Armazenar snapshops, backups, gerar um armazenamento híbrido do seu ambiente on-premises.
+* Repositório de data lakes e análise de big data
+* Baixa latência e alta velocidade
+* Durabilidade de 99,999999999 (onze noves)
+
+**Nomenclaturas**
+* ARMAZENAMENTO = BUCKETS
+* ARQUIVOS = OBJETOS
+* SUB-PASTAS = PREFIXOS
+
