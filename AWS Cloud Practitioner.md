@@ -418,3 +418,5 @@ O Amazon VPC é uma sessão isolada logicamente na nuvem AWS, que permite custom
 ## Elastic Load Balancer (ELB)
 Foi desenvolvido para distribuir automaticamente o tráfego de entrada de alicativos entre diversos destinos, como instâncias do Amazon EC2, contêineres, endereços ip e funções Lambda. \
 ![image](https://user-images.githubusercontent.com/74719360/167464367-5b0278b6-1818-446c-a625-3554a5a7479d.png)
+
+
