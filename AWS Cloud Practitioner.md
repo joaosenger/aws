@@ -317,4 +317,23 @@ Para a prova: \
 * ARMAZENAMENTO = BUCKETS
 * ARQUIVOS = OBJETOS
 * SUB-PASTAS = PREFIXOS
+![image](https://user-images.githubusercontent.com/74719360/167358983-56409383-b240-43d3-a2f9-9ab022df6b34.png)
+![image](https://user-images.githubusercontent.com/74719360/167359008-bce06fff-e883-4990-92b2-6bba949d4deb.png)
+**Objetos S3**
+* Tamanho máximo objeto 5 TB
+* Upload > 5 GB use o multi-part upload
+* Metadata (chave e calor por sistema e usuário)
+* Tags (chaves e valor por usuário)
+* Versionamento de objetos
 
+PARA O EXAME:  \
+* Amazon S3 é um serviço **CORE** da AWS
+* Entenda o que é e como ele funciona
+* Leia os benefícios e entende o conceito de objetos
+* Memorize a URL do S3.
+
+## Amazon S3: Classes de Armazenamento e Ciclo de Vida
+O Amazon S3 ofere uma varidade de categorias de armazenamento, para atender diferentes casos de uso. Em conjunto com a política de ciclo de vida, os dados são migrados automaticamente entre essas categorias, refletindo em um menor custo de armazenamento. \
+![image](https://user-images.githubusercontent.com/74719360/167366858-4f07f139-4fbd-4b48-8e98-b92f80fd92ab.png)
+**Ciclo de vida:**
+![image](https://user-images.githubusercontent.com/74719360/167367260-73c7e695-31e7-4a64-b5b3-d0f56ea8e707.png)
