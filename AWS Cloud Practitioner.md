@@ -337,3 +337,15 @@ O Amazon S3 ofere uma varidade de categorias de armazenamento, para atender dife
 ![image](https://user-images.githubusercontent.com/74719360/167366858-4f07f139-4fbd-4b48-8e98-b92f80fd92ab.png)
 **Ciclo de vida:**
 ![image](https://user-images.githubusercontent.com/74719360/167367260-73c7e695-31e7-4a64-b5b3-d0f56ea8e707.png)
+
+## Amazon EBS - Elastic Block Store
+É um serviço de armazenamento de blocos persistentes (No EC2 o SO é perdido ao desligar a instância, sendo necessário usar o EBS para um sistema "fixo"), projetado como um volume, para ser conectado e utilizado como um disco, em instâncias do Amazon EC2. \
+**Características do Amazon EBS:**
+* Blocos persistentes (recomendado para SO, BD)
+* Proteção através de replicação (SLA 99,99%)
+* Diferentes tipos de disco (SSD & HDD)
+* Redimensionar em minutos (on-the-fly)
+* Pagar por aquilo que está sendo provisionado
+* Snapshots manual ou automático (point-in-time)
+* Criptografia em repouso
+* Uma zona de disponibilidade
