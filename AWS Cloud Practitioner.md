@@ -360,5 +360,16 @@ Armazenamento temporário de informações que são alteradas frequentemente, co
 
 * Qual a principal diferença do Amazon Instante Store? \
 Anexados fisicamente ao computador host, refletindo alta velocidade. \
-É um armazenamento temporário (ephemeral) e não pode ser desconectado. \
+É um armazenamento temporário **(ephemeral)** e não pode ser desconectado. \
 A hibernação, falha na instância ou desligamento, perdem-se todos os dados. \
+
+## Amazon EFS - Elastic File System
+Usado para que uma instância EC2 em outra zona de disponibildiade consiga acessar o disco EBS.
+![image](https://user-images.githubusercontent.com/74719360/167400924-885e2f27-f592-414c-95a9-9dcf942ee39d.png)
+![image](https://user-images.githubusercontent.com/74719360/167401073-55ce9e79-4ee9-4c36-abd0-c61f6c864197.png)
+
+## Amazon S3 Glacier e Glacier Deep Archive
+Classes de armazenamento de objetos de longo prazo, seguras e resilientes do Amazon S3.
+![image](https://user-images.githubusercontent.com/74719360/167405321-c8fda7e6-d422-4ca9-82a7-636a22101994.png)
+![image](https://user-images.githubusercontent.com/74719360/167405847-0a7e277f-f07e-46ef-84b3-73a84f13eff0.png)
+
