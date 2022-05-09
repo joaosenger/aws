@@ -373,3 +373,16 @@ Classes de armazenamento de objetos de longo prazo, seguras e resilientes do Ama
 ![image](https://user-images.githubusercontent.com/74719360/167405321-c8fda7e6-d422-4ca9-82a7-636a22101994.png)
 ![image](https://user-images.githubusercontent.com/74719360/167405847-0a7e277f-f07e-46ef-84b3-73a84f13eff0.png)
 
+## Família AWS Snow: Transportando Dados para a Nuvem
+É composta por três produtos: Snowcone, Snowball e Snowmobile.
+Snowcone: \
+![image](https://user-images.githubusercontent.com/74719360/167409302-ee4a91a9-4b4a-4c96-88d3-54b43c1ccb71.png)
+![image](https://user-images.githubusercontent.com/74719360/167409386-74f7db6f-d08d-43b4-9429-481cc15a45cc.png)
+
+Snowball Edge: é usado para transportar um conjunto de dados em escala petabyte
+![image](https://user-images.githubusercontent.com/74719360/167409595-f3a7124e-c74d-4150-8092-35490bfbe3f8.png)
+
+
+
+
+
