@@ -402,3 +402,19 @@ Revisão Armazenamentos: \
 
 O Amazon VPC é uma sessão isolada logicamente na nuvem AWS, que permite customizar uma rede virtual e executar recursos, em um ambiente com controle total.
 
+## Amazon Route 53
+É um serviço que atua como DNS, convertendo nomes de www.exemplo.com para endereços IP como 192.0.2.1 \
+**Características:**
+* Registro de domínios
+* Trasferência de Domínios
+* Resolvedores Endpoints 
+* COnfigurar Políticas Fluxo de Tráfego
+* Verificação de Integridade (health check)
+* Criação de Azonas Hospedadas
+
+## Amazon CloudFront
+É um serviço de entrega de conteúdo (CDN) que entrega dados, veídeos, aplicativos e APIS a clientes de forma mundial, com segurança, baixa latência e alta velocidade. \
+
+## Elastic Load Balancer (ELB)
+Foi desenvolvido para distribuir automaticamente o tráfego de entrada de alicativos entre diversos destinos, como instâncias do Amazon EC2, contêineres, endereços ip e funções Lambda. \
+![image](https://user-images.githubusercontent.com/74719360/167464367-5b0278b6-1818-446c-a625-3554a5a7479d.png)
