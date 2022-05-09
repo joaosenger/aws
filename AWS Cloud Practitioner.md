@@ -395,11 +395,10 @@ Snowcone: \
 
 ![image](https://user-images.githubusercontent.com/74719360/167438803-fb851611-0403-4905-ab59-c1efab3085da.png)
 
-
-
-
 Revisão Armazenamentos: \
 ![image](https://user-images.githubusercontent.com/74719360/167437966-cc42ac66-a013-4609-a291-14d0d72525ed.png)
 
+## Amazon VPC - Virtual Private Cloud
 
+O Amazon VPC é uma sessão isolada logicamente na nuvem AWS, que permite customizar uma rede virtual e executar recursos, em um ambiente com controle total.
 
