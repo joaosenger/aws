@@ -349,3 +349,16 @@ O Amazon S3 ofere uma varidade de categorias de armazenamento, para atender dife
 * Snapshots manual ou automático (point-in-time)
 * Criptografia em repouso
 * Uma zona de disponibilidade
+![image](https://user-images.githubusercontent.com/74719360/167397085-68eaa9dd-ac34-4c3b-a0b7-b0a623f66855.png)
+
+## Amazon EC2 Instance Store
+* O que é o Amazon Instance Store? \
+É um **armazenamento temporário** em nível de bloco para a instância.
+
+* Para que serve o Amazon Instance Store? \
+Armazenamento temporário de informações que são alteradas frequentemente, como buffers, caches, dados de rascunho e outros conteúdos temporários.
+
+* Qual a principal diferença do Amazon Instante Store? \
+Anexados fisicamente ao computador host, refletindo alta velocidade. \
+É um armazenamento temporário (ephemeral) e não pode ser desconectado. \
+A hibernação, falha na instância ou desligamento, perdem-se todos os dados. \
