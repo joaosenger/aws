@@ -379,10 +379,27 @@ Snowcone: \
 ![image](https://user-images.githubusercontent.com/74719360/167409302-ee4a91a9-4b4a-4c96-88d3-54b43c1ccb71.png)
 ![image](https://user-images.githubusercontent.com/74719360/167409386-74f7db6f-d08d-43b4-9429-481cc15a45cc.png)
 
-Snowball Edge: é usado para transportar um conjunto de dados em escala petabyte
+**Snowball Edge**: é usado para transportar um conjunto de dados em escala petabyte
 ![image](https://user-images.githubusercontent.com/74719360/167409595-f3a7124e-c74d-4150-8092-35490bfbe3f8.png)
 
+![image](https://user-images.githubusercontent.com/74719360/167432760-dd70e5a6-7df8-4fd6-82f1-29f5ea7cf465.png)
 
+**Snowmobile:**
+![image](https://user-images.githubusercontent.com/74719360/167433542-b9a12f16-d022-4fc9-ac70-7b69fbbff3d5.png)
+
+**RESUMO:**
+![image](https://user-images.githubusercontent.com/74719360/167433905-f37176db-7a44-44ce-bedf-9acdb308713b.png)
+
+## AWS Storage Gateway
+![image](https://user-images.githubusercontent.com/74719360/167438398-6e547a26-b2b8-4729-a724-3daf74d865e7.png)
+
+![image](https://user-images.githubusercontent.com/74719360/167438803-fb851611-0403-4905-ab59-c1efab3085da.png)
+
+
+
+
+Revisão Armazenamentos: \
+![image](https://user-images.githubusercontent.com/74719360/167437966-cc42ac66-a013-4609-a291-14d0d72525ed.png)
 
 
 
