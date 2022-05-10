@@ -492,5 +492,38 @@ O AWS CloudFormation é um serviço que oferece uma linguagem comum para que voc
 ![image](https://user-images.githubusercontent.com/74719360/167666392-53863e51-96f2-4e28-b31c-cba75006bcc9.png)
 
 ## Amazon Trusted Advisor
+AWS Trusted Advisor é uma ferramenta que fornece orientações em tempo real da sua conta nas seguintes áreas:
+* Desempenho
+* Tolerância a falha
+* Otimização de Custo
+* Segurança e
+* Limites de Serviços.
+![image](https://user-images.githubusercontent.com/74719360/167674731-e1cafca8-c014-45a2-89cb-10f7651c8501.png)
+Cada categoria avalia o seu ambiente e sugere melhorias que podem ser aplicadas e podem otimizar tanto na redução do seu custo mensal, quanto resolver brechas de segurança. Para isso a ferramente realiza um escaneamento do seu sistema e baseado nas melhores práticas sugeridas pelos engenheiros da AWS, um relatório visual é gerado, como na imagem acima.
+![image](https://user-images.githubusercontent.com/74719360/167675204-39895b67-405b-4ec6-828b-d6007a18653b.png)
+
+## AWS Well-Architected
+**Princípios Gerais**
+1. Pare de ficar adivinhando a sua capacidade
+2. Teste o seu produto em escala de produção
+3. Automatize a sua arquitetura para a sua experimentação ser fácil
+4. Permita a evolução da arquitetura 
+5. Construa a sua arquitetura baseado em dados
+6. Melhore através de gamedays
+
+**Princípios do Design**
+1. Escalabilidade: vertical e horizontal
+2. Recursos descartáveis: nada é para sempre
+3. Automação: serverless, IaaS, auto scaling
+4. Loose Couple: falhas não podem cascatear e não ao monolito
+5. Serviços não Servidores: será que não tem um serviço para isso?
+
+**Cinco pilares Well-Architected:**
+1. Operational Excellence: executar e monitorar para entregar valor
+2. Security: proteger informações e sistemas
+3. Reliability: garantir que uma carga de trabalho execute sua função pretendida corretamente e de modo consistente.
+4. Performance Efficiency: uso eficiente de recursos e computação.
+5. Cost Optimization: compreensão e controle de onde o dinheiro está sendo gasto, ajustando os recursos e serviços.
+
 
 
