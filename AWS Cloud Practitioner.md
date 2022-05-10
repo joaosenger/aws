@@ -461,7 +461,7 @@ AWS DMS é usado na replicação de bancos de dados, em: \
 * On-premise -> AWS 
 * AWS -> AWS 
 * AWS -> On-premise 
-<br>
+
 O AWS DMS precisa criar uma instância EC2 para realizar a tarefa de replicação. 
 <br>
 Você paga por instâncias de replicação criadas e por qualquer armazenamento adicional de logs. 
