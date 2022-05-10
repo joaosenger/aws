@@ -525,5 +525,13 @@ Cada categoria avalia o seu ambiente e sugere melhorias que podem ser aplicadas 
 4. Performance Efficiency: uso eficiente de recursos e computação.
 5. Cost Optimization: compreensão e controle de onde o dinheiro está sendo gasto, ajustando os recursos e serviços.
 
+## AWS Config
+É um serviço que permite **acessar, auditar e avaliar** as configurações dos recursos da AWS.
+![image](https://user-images.githubusercontent.com/74719360/167678918-b998ed77-6970-40d9-be3b-06630a37882b.png)
 
+## Amazon SNS - Simple Notification Service
+O Amazon Simple Notification Service (SNS) é um serviço de envio de mensagens de publicação / assinatura totalmente gerenciado, altamente disponível, seguro e durável.
+
+## Amazon SQS - Simple Queue Service
+O Amazon Simple Queue Service (SQS) é um serviço de filas de mensagens gerenciadas para microsserviços, sistemas distribuídos e aplicativos sem servidor. \
 
