@@ -419,4 +419,53 @@ O Amazon VPC é uma sessão isolada logicamente na nuvem AWS, que permite custom
 Foi desenvolvido para distribuir automaticamente o tráfego de entrada de alicativos entre diversos destinos, como instâncias do Amazon EC2, contêineres, endereços ip e funções Lambda. \
 ![image](https://user-images.githubusercontent.com/74719360/167464367-5b0278b6-1818-446c-a625-3554a5a7479d.png)
 
+## Amazon RDS - Relational Database Service
+O Amazon Relational Database Service (ou Amazon RDS) é um banco de dados relacional que destaca-se por sua escalabilidade, automatização na aplicação de patches, provisionamento de hardware e backup na nuvem.
+
+**É compatível com os mecanismos de bancos de dados:**
+* Amazon Aurora
+* MySQL
+* MariaDB
+* Oracle
+* SQL Server
+* PostgreSQL
+
+## Amazon DynamoDB
+É um banco de dados não relacional (NoSQL) de chave-valor e documento que oferece desempenho de milissegundos.
+
+**Características**: \
+* Serverless (AWS gerencia os recursos)
+* Escalável - virtualmente ilimitado
+* Confiável - criptografia em repouso por padrão
+* Rápido - latência em microsegundos
+![image](https://user-images.githubusercontent.com/74719360/167657460-bf8c0ca0-fc7e-4b11-b08e-170273120596.png)
+
+## Amazon ElastiCache
+É um serviço gerenciado de armazenamento de dados na memória, compatível com **Redis** ou **Memcached**, para aplicativos que precisam de tempos de resposta inferiores a um milissegundo. (lembrar do placar de jogos, exemplo do prof) \
+![image](https://user-images.githubusercontent.com/74719360/167658876-9b5a64c0-c3bc-491e-9694-4866613c0c9c.png)
+
+**Características do Amazon ElastiCache:** \
+* Serviço gerenciado pela AWS
+* Armazenamento na memória
+* Repostas < 1 milissegundo
+* MemCached (dados simples - chave/valor)
+* Redis (dados complexos)
+
+## AWS Database Migration Service (DMS)
+O AWS Database Migration Service (DMS) é um serviço que facilita a migração de bancos de dados relacionais, data warehouses, NoSQL e outros tipos de armazenamento de dados para a nuvem AWS. \
+**Tipos de Migração** \
+![image](https://user-images.githubusercontent.com/74719360/167659879-f42a628c-09de-4f2c-877f-073357ed4a14.png)
+
+Dicas do EXAME: \
+AWS DMS é usado na replicação de bancos de dados, em: \
+* On-premise -> AWS 
+* AWS -> AWS 
+* AWS -> On-premise 
+<br>
+O AWS DMS precisa criar uma instância EC2 para realizar a tarefa de replicação. 
+<br>
+Você paga por instâncias de replicação criadas e por qualquer armazenamento adicional de logs. 
+<br>
+Não usamos o AWS SCT quando os bancos de dados de origem e de destino possuírem o mesmo mecanismo. 
+
 
