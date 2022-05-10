@@ -468,4 +468,29 @@ Você paga por instâncias de replicação criadas e por qualquer armazenamento 
 <br>
 Não usamos o AWS SCT quando os bancos de dados de origem e de destino possuírem o mesmo mecanismo. 
 
+## Amazon CloudWatch
+É um serviço de monitoramento de desempenho dos recursos e dos aplicativos que você executa no seu ambiente. \
+![image](https://user-images.githubusercontent.com/74719360/167661926-a11d01d3-5811-46c6-a4dc-b8a3803d6003.png)
+
+## AWS CloudTrail
+O AWS CloudTrail é um serviço que possibilita governança, conformidade, auditoria operacional e auditoria de riscos em sua conta AWS. \
+
+**Cai na prova: Diferença entre Amazon CloudWatch e AWS CloudTrail**: \
+![image](https://user-images.githubusercontent.com/74719360/167662834-36f34a28-e7db-4ff9-a026-9374c3ecbb1d.png)
+Amazon CloudWatch: \
+Análise de performance dos recursos aws e das aplicações \
+AWS CloudTrail: \
+Auditoria, quem acessou a AWS, fez o que, excluiu o que, qual alteração foi feita, dia, horário, etc, e armazena em logs. \
+
+## AWS Artifact - Acordos e Relatórios de Conformidade
+![image](https://user-images.githubusercontent.com/74719360/167664440-71775274-fcb9-46ff-a439-7e0fb38ada3d.png)
+![image](https://user-images.githubusercontent.com/74719360/167664550-bfba4154-7300-4f0f-94d4-1e595ace105e.png)
+
+## AWS CloudFormation
+O AWS CloudFormation é um serviço que oferece uma linguagem comum para que você possa descrever e fornecer todos os recursos de infraestrutura em um ambiente de nuvem. Lemra muito o Cisco Packet Tracer. \
+![image](https://user-images.githubusercontent.com/74719360/167665336-01a8c34c-81b4-4eac-a96d-bec63f74136f.png)
+![image](https://user-images.githubusercontent.com/74719360/167666392-53863e51-96f2-4e28-b31c-cba75006bcc9.png)
+
+## Amazon Trusted Advisor
+
 
