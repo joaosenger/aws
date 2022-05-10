@@ -535,3 +535,9 @@ O Amazon Simple Notification Service (SNS) é um serviço de envio de mensagens 
 ## Amazon SQS - Simple Queue Service
 O Amazon Simple Queue Service (SQS) é um serviço de filas de mensagens gerenciadas para microsserviços, sistemas distribuídos e aplicativos sem servidor. \
 
+## Amazon Kinesis
+É um serviço que atua na coleta, processamento e análise de dados por streaming (tempo real).
+**Cenários de Uso:* \
+* **Câmeras de trânsito** que capturam placas de carros e notificam a polícia em tempo real.
+* **Assistentes virtuais** que processam comandos por voz e respondem de forma acurada em segundos.
+* **Aparelhos domésticos** 
