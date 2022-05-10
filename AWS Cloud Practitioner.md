@@ -540,4 +540,5 @@ O Amazon Simple Queue Service (SQS) é um serviço de filas de mensagens gerenci
 **Cenários de Uso:* \
 * **Câmeras de trânsito** que capturam placas de carros e notificam a polícia em tempo real.
 * **Assistentes virtuais** que processam comandos por voz e respondem de forma acurada em segundos.
-* **Aparelhos domésticos** 
+* **Aparelhos domésticos** que utilizam elemetria IoT e que com os dados coletados geram análises, se adaptando ao ambiente sem a intervenção humana.
+![image](https://user-images.githubusercontent.com/74719360/167699828-4a120515-a29a-430e-935b-f7705f7336cf.png)
