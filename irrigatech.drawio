@@ -1,4 +1,4 @@
-<mxfile modified="2023-07-30T11:58:03.437Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="iBDOSzp-8SaWc97rKFpj" version="21.6.6" type="github">
+<mxfile modified="2023-07-30T12:02:52.421Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="myy7knQXSVlUjk294Tkl" version="21.6.6" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1509" dy="3289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
         <mxCell id="kr5C1dYKx8-NlbAN7hlA-41" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_temperature_sensor;" vertex="1" parent="kr5C1dYKx8-NlbAN7hlA-42">
           <mxGeometry width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="kr5C1dYKx8-NlbAN7hlA-2" value="Arquitetura - IrrigaTech" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="kr5C1dYKx8-NlbAN7hlA-2" value="Arquitetura na AWS" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="642.5" y="-1654" width="305" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kr5C1dYKx8-NlbAN7hlA-46" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sensor;" vertex="1" parent="1">
